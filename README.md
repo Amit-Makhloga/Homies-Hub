@@ -1,3 +1,19 @@
+# HOMIES HUB
+
+Homies Hub is a cutting-edge food delivery application designed to revolutionize the way people experience ordering food online. Built on the robust MERN (MongoDB, Express.js, React.js, Node.js) stack, Homies Hub offers a seamless and intuitive platform for users to browse, order, and enjoy their favorite meals from the comfort of their homes.
+
+With Homies Hub, users can explore a diverse range of cuisines, browse through an extensive menu, and place orders with just a few taps on their devices.
+
+Behind the scenes, Homies Hub leverages the power of MongoDB for efficient data storage and management, ensuring fast and reliable access to menu items, user profiles, and order details. The Express.js framework provides a solid foundation for building robust backend APIs, enabling seamless communication between the client-side application and the server.
+
+On the front end, Homies Hub boasts a dynamic and responsive user interface developed using React.js. This allows for smooth navigation, interactive features, and a delightful user experience across devices. The use of React.js also facilitates rapid development and easy maintenance of the application, ensuring that Homies Hub remains at the forefront of innovation in the food delivery industry.
+
+Whether it's a quick lunch, a cozy dinner, or a special occasion, Homies Hub is committed to bringing delicious meals straight to your doorstep with speed, reliability, and convenience. Join the Homies Hub community today and experience the future of food delivery.
+
+![screencapture-localhost-3000-2024-04-19-17_31_46](https://github.com/Amit-Makhloga/Homies-Hub/assets/135804553/026e9131-96d3-48fe-9ce7-e6a420401df2)
+
+![Screenshot 2024-04-19 173356](https://github.com/Amit-Makhloga/Homies-Hub/assets/135804553/d94b8863-edf0-48b0-832a-fc7958541a3c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
